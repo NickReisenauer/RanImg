@@ -11,6 +11,12 @@
   "orientation": "portrait",
   "icons": [
     {
+      "src": "/icon/maskable_icon.png",
+      "sizes": "196x196.png",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
       "src": "/icon/512x512.png",
       "type": "image/png",
       "sizes": "512x512"
